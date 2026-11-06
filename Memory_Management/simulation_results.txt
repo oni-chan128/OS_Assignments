@@ -1,0 +1,26 @@
+MEMORY MANAGEMENT SIMULATOR
+===========================
+
+ TEST 1
+Total Memory: 1000 KB
+-----------------------------------------------------------------
+Measurement              First-Fit         Best-Fit
+-----------------------------------------------------------------
+Memory Utilization       73.00%            73.00%
+Successful Allocations   5                 5
+Failed Allocations       0                 0
+Blocks Examined          13                15
+-----------------------------------------------------------------
+
+ TEST 2
+Total Memory: 1500 KB
+-----------------------------------------------------------------
+Measurement              First-Fit         Best-Fit
+-----------------------------------------------------------------
+Memory Utilization       93.33%            93.33%
+Successful Allocations   6                 6
+Failed Allocations       0                 0
+Blocks Examined          14                20
+-----------------------------------------------------------------
+
+Simulation completed.

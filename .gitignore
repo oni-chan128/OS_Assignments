@@ -1,0 +1,7 @@
+# Compiled executables
+Process_Management/proc
+IPC/IPC
+
+# Python cache
+__pycache__/
+*.pyc
